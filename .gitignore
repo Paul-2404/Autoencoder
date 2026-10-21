@@ -1,0 +1,14 @@
+.agents/
+__pycache__/
+results/
+data/
+experiments/
+src/
+
+autoencoder_interactive_anatomy.html
+Autoencoder_PRML_Presentation.pptx
+Autoencoder_PRML_Presentation_Notes.docx
+PRESENTATION_SPEAKER_GUIDE.md
+build_presentation.py
+build_speaker_notes_docx.py
+generate_architecture_diagram.py
